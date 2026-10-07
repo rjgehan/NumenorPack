@@ -241,11 +241,6 @@ hash = "9d86e9fe1edddc7b47abd9fa8ee69c3b88489abe99205bc194ed520a3c35646b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-hash = "0ce41000cbbb72e9c03ae3738500aae1056f1102ddc4e5a46784ec18cabf6ca7"
-metafile = true
-
-[[files]]
 file = "resourcepacks/rainbow-xp-bars.pw.toml"
 hash = "ef77a8bd7ef4e480256abb94673dc89b5b0a135f1c7ef9c809843616d259dfb0"
 metafile = true
