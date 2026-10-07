@@ -12,7 +12,7 @@ preserve = true
 
 [[files]]
 file = "config/minihud.json"
-hash = "b280bf837c7385d9cad9d9870a2e9d6e124d9166e242be8222a9caf6fd28ecf7"
+hash = "e7d3077bd4a90b183f03aed5681d965f2542fcfce5d7116cdc5dd138157c0f08"
 preserve = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6311143b82891493cbde975e84aac70cd1f85e76f1991d21c9143957e51d53ed"
+hash = "af71944c06ba7757d5e8a7fe864dbf141cb9c3bb1c38d56876154984e59940d2"
 preserve = true
 
 [[files]]
