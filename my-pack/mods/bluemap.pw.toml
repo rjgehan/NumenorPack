@@ -1,0 +1,13 @@
+name = "BlueMap"
+filename = "bluemap-5.28-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/bbzcTCOs/bluemap-5.28-fabric.jar"
+hash-format = "sha512"
+hash = "21978808ee083f6abe06ba23fd0ff6c0e07fcfa7260f3e1cff959a517836e3e71a08a43574a3711ec37456bd6ad9fc1ebaabb736b590ee53f0d79f01637f8b26"
+
+[update]
+[update.modrinth]
+mod-id = "swbUV1cr"
+version = "bbzcTCOs"

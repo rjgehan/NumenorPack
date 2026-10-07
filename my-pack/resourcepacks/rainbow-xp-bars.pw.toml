@@ -1,0 +1,13 @@
+name = "Rainbow XP Bar"
+filename = "Rainbow XP Bar.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qo7QSMx/versions/Y95q8ZAe/Rainbow%20XP%20Bar.zip"
+hash-format = "sha512"
+hash = "451fc168d19e15cfde843b2d05284beaf13a0458140777c8b50cc7f149b4d7172e871cc60ef69c6f27c415815daf572cbb0bac857116914836f32e79a36e1878"
+
+[update]
+[update.modrinth]
+mod-id = "4qo7QSMx"
+version = "Y95q8ZAe"

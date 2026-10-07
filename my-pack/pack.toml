@@ -1,0 +1,13 @@
+name = "Numenor"
+author = "Fuze"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "31b6b6d2b1ba722cfa90adc2089a9ea5b9737a12be30846f749563c7845e7531"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
