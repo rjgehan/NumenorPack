@@ -206,6 +206,11 @@ hash = "1063819c4a7de56b72384a52615bc2dc7818c44b5791072b5b315ca372308fca"
 metafile = true
 
 [[files]]
+file = "mods/villager-linker.pw.toml"
+hash = "f80c040c62caee5547f3096535838bd9cc9d474ef6ecfcb94207c747dffce6ce"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9ae9a521dbac76f67fa6968a45c56d650595d818701fe129066b4ae85a20cb77"
 metafile = true
